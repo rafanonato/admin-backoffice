@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/rafanonato/admin-backoffice.svg?branch=master)](https://travis-ci.org/rafanonato/admin-backoffice)
+
 # Admin Backoffice - Angular App
 
 ## 1. Passos para começar
